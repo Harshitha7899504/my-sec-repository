@@ -1,0 +1,1 @@
+Create a new GitHub repository named student-portal-demo. Initialize it with a README file describing a basic idea.
